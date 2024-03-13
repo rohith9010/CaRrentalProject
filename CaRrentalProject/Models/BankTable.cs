@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace CaRrentalProject.Models
 {
 
-    public class BankTB
+    public class BankTable
     {
         [Key]
         public int BankID { get; set; }
